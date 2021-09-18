@@ -1,7 +1,9 @@
 data:
   file_path: "./data/inputs/chat_parsed/all-messages-endoftext.txt"
 ml:
-  save_path: "./data/models_trained/"
+  save_path: "/content/gdrive/MyDrive/collab/data/chat_raw/whatsapp/"
+
+
 
   vocab_size: 5000
   tokenizer_dropout: 0.0 # 0=disabled
